@@ -20,4 +20,4 @@ To build a decentralized computer, here are the essential elements:
 4) Transactions and accounts.
 5) A state management data structure.
 
-Definitely take the course if you're interested in exploring the concepts behind this project more deeply. The course is a line-by-line tutorial of this entire repository. And by the end of the course, you'll have your own version of Ethereum.
+Definitely build this project if you're interested in exploring the concepts behind this project more deeply. The repository is a line-by-line tutorial of this entire program. And by the end of building this program, you'll have your own version of Ethereum.
