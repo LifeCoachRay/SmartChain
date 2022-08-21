@@ -2,14 +2,9 @@
 
 ![Course Logo](course_logo_udemy.png)
 
-This repository accompanies the "Build Ethereum From Scratch - Smart Contracts and More"
-course by David Katz.
+This repository accompanies the "Build Ethereum From Scratch - Smart Contracts and More".
 
-#### Take the course here:
-
-[https://www.udemy.com/build-ethereum-from-scratch?couponCode=GITHUB](https://www.udemy.com/build-ethereum-from-scratch?couponCode=GITHUB)
-
-In the course, you will build your own version of Ethereum. Ethereum can be described in two words. It's a:
+In this repository, you will build your own version of Ethereum. Ethereum can be described in two words. It's a:
 
 #### Decentralized Computer.
 
